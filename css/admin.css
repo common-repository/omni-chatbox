@@ -1,0 +1,21 @@
+.row.btns {
+  justify-content: left;
+  margin: 0px 0 15px;
+}
+.row.btns .button {
+  border-radius: 50px;  
+  margin: 5px;
+}
+.shortcode-container{
+  width: 100%;
+}
+.shortcode{
+  background: #fffbcc;
+  border: 1px solid #e6db55;
+  padding: 20px;
+  margin: 20px;  
+}
+.el-wrap{
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
